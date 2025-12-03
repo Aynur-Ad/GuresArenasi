@@ -1,6 +1,3 @@
-# GuresArenasi
-https://aynuradibelli.itch.io/gre-arenas
-
 # 🥇 Güreş Arenası – WebGL Oynanabilir Oyun
 
 Bu proje, Unity kullanılarak geliştirilmiş basit bir **3D Arena Güreşi / İtme Mücadelesi** oyunudur.  
